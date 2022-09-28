@@ -52,7 +52,7 @@ app.post('/joinride', (req,res) => {
             //   "email": "tejasgaikwad0504@gmail.com", // for sendin to more than one user do this, you have to specify all user emails here
             },
             "content": {
-              "title": "Secret Message",
+              "title": "Ride Details :- ",
               "body": "Hey thanks for coming on Ride.\n\n Here is a Details about ride :-\n\n Start: NewDelhi, India. \n Destn : Delhi Gate, India.\n Time : 7:00am to 12:00pm\n\n Let's cathch up on this sunday."
             },
           }
